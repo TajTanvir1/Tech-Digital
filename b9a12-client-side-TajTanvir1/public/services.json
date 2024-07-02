@@ -1,0 +1,56 @@
+[
+   {
+      "categoryName": "Digital Marketing",
+      "Title": "SEO Optimization",
+      "Image": "seo_optimization.jpg",
+      "workDetails": "Improve search engine rankings",
+      "timeNeed": "2 weeks",
+      "Amount": "$500",
+      "workFullDetails": "Comprehensive SEO services including keyword research, on-page optimization, and link building to improve your website's visibility on search engines."
+   },
+{
+      "categoryName": "Web Design",
+      "Title": "Responsive Website Design",
+      "Image": "responsive_web_design.jpg",
+      "workDetails": "Create a responsive website",
+      "timeNeed": "3 weeks",
+      "Amount": "$1500",
+      "workFullDetails": "Design a mobile-friendly, responsive website that looks great on all devices and provides an optimal user experience."
+   },
+{
+      "categoryName": "Web Development",
+      "Title": "E-commerce Website Development",
+      "Image": "ecommerce_development.jpg",
+      "workDetails": "Develop an e-commerce platform",
+      "timeNeed": "4 weeks",
+      "Amount": "$3000",
+      "workFullDetails": "Build a fully functional e-commerce website with features such as product listings, shopping cart, checkout, and payment integration."
+   },
+{
+      "categoryName": "Logo Design",
+      "Title": "Brand Logo Design",
+      "Image": "logo_design.jpg",
+      "workDetails": "Create a unique brand logo",
+      "timeNeed": "1 week",
+      "Amount": "$200",
+      "workFullDetails": "Design a custom logo that reflects your brand's identity and values, suitable for use across all your marketing materials."
+   },
+{
+      "categoryName": "Software Development",
+      "Title": "Custom Software Solution",
+      "Image": "software_development.jpg",
+      "workDetails": "Develop custom software",
+      "timeNeed": "8 weeks",
+      "Amount": "$10000",
+      "workFullDetails": "Develop a tailored software solution to meet your business needs, including requirements analysis, development, testing, and deployment."
+   },
+{
+      "categoryName": "Mobile App Design",
+      "Title": "Mobile App UI/UX Design",
+      "Image": "mobile_app_design.jpg",
+      "workDetails": "Design the UI/UX of a mobile app",
+      "timeNeed": "3 weeks",
+      "Amount": "$1200",
+      "workFullDetails": "Create an intuitive and engaging user interface and experience for your mobile app, ensuring usability and aesthetic appeal across devices."
+   }
+]
